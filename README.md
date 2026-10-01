@@ -43,5 +43,5 @@ The continuous acoustic signals were divided into **fixed-length overlapping seg
 Based on these segmented samples, **federated learning datasets were constructed by partitioning the samples into multiple virtual clients**.  
 Different client-wise data distributions were generated to simulate realistic cross-client heterogeneity, including **IID** and **Dirichlet-based non-IID** settings.
 
-Ultimate Data will be provided on request and recommedned to be usesd.
+Ultimate Data will be provided on request and recommended to be usesd.
 
